@@ -14,8 +14,7 @@
 <!-- ABOUT ME -->
 ### 💜 About Me
 - 🌱 Currently learning **React & UI Design**
-- 🎯 Goals for 2025: **Build more creative projects**
-- 💬 Ask me about **JavaScript, HTML/CSS, and Aesthetic Design**
+- 🎯 Goals for 2026: **Build more creative projects**
 - ✨ Fun fact: I love lilac & pastel tones
 
 <!-- BADGES -->
